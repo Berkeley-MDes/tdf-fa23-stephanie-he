@@ -4,7 +4,8 @@
 Tweaking the file on rhino and illustrator, then laser cutting the changes:
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
-//![cell phone stand](really_awesome_stand.jpg)
+![cell phone stand](IMG_1355.HEIC)
+![cell phone stand](IMG_1348.HEIC)
 
 If you use this format, you might want to link back to the main [README.md](../README.md) like so!
 
