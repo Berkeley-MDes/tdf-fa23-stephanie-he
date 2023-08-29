@@ -8,7 +8,7 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 
 Here is a link to [Duck Duck Go](https://duckduckgo.com)
 
-![phone stand](IMG_1348.png)
+<img src="IMG_1348.png" alt="drawing" width="300"/>
 
 If you use this format, you might want to link back to the main [README.md](../README.md) like so!
 
