@@ -7,7 +7,7 @@ in complete sentences or paragraphs, and perhaps images or videos. reflections o
 
 I started with a basic model with ribs to hold a headphone. This was a simple shape extruded out and offset in a series. 
 I had trouble learning how to use rhino to create 2D views and create adjustable shapes, so I got help from Cody and classmates in the makerspace. 
-I was able to iterate more on how the project would be designed, and I enjoyed learning more functionality in the tool.
+I was able to iterate more on how the project would be designed, and I enjoyed learning more functionality in the tool. Then, I assembled the pieces with glue and painted the piece for uniformity.
 
 ### Speculations
 in complete sentences or paragraphs, and perhaps images or videos. speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?] speculation on future direction for the work
@@ -19,5 +19,7 @@ Then, with parametric modeling in Grasshopper, the given model can be further tw
 ### Images & Video
 
 <img src="IMG_1844.JPG" alt="drawing" width="500"/>
+<img src="IMG_1804.png" alt="drawing" width="500"/>
+<img src="IMG_1811.png" alt="drawing" width="500"/>
 
 ---
