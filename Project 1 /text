@@ -1,0 +1,30 @@
+Project 1
+I’m Stephanie He. In my work, I’m excited to design tools for users with data-informed and detail-oriented design. I’m excited to learn more about the different tools out there and what those user experiences are like.
+
+
+
+02-Platypus
+
+In this project, I started with learning to edit parameters and laser cut phone stand, and then went on to model a headphone stand!
+
+Starting off with my Rhino and Grasshopper exploration, I initially worked with the class-provided model. I used the parameters to customize a phone stand, which was straightforward. However, the laser cutting process didn't quite go as planned. So, I repeated the laser cutting process a few times until I got it right.
+
+Then, it was time to tackle the headphone stand. I started with a basic design featuring ribs to hold a pair of headphones. By creating a straightforward shape, extruding it, and offsetting it in a series, I got my first shape. Learning to navigate Rhino, especially basic functions like rotation and translating to 2D, was a bit of a learning curve. Thankfully, I found online tutorials to reference.
+
+Next, I introduced a ribbing pattern to the headphone stand, making it flexible when it came to adjusting dimensions and the number of ribs. Once my design was ready, I transitioned to modeling and exported it to 2D.
+
+To top it all off, I added a touch of color to the wood, giving the headphone stand a darker color.
+
+When it comes to our everyday experiences, something as simple as a headphone stand can turn into a personalized work of art, like the ribbed model in this stand. Personal items can be adjusted to exact products and other objects you own. 
+
+With AI, we can take things to a whole new level. Smart assistants can help create designs that match your personal preferences and your workspace aesthetic. AI assistants can analyze user data and preferences to create designs specific to an aesthetic or niche. In addition, this makes getting a design or aesthetic you want to lean towards a reference point for the AI to use and incorporate. And, if you want to tweak the design, you can use Grasshopper's parametric modeling until it's just right. 
+
+These tools used with AI will impact engineering as well, as the optimization for complex models with precision can be much more accurate. This potentially reduces error significantly and makes product designs ready much more quickly. Using Grasshopper, engineers can establish relationships in designs more easily with parameters. However with AI, this can be further explored by being able to use human language and thought processes to create models without needing to do the complex calculations and implications. 
+
+But it's not just about the outer aesthetic; it's about being smart and flexible to the user needs as well. Laser-cut designs can help make the material usage far more efficient. They minimize waste and make the most of materials, making this project not just customized to one’s taste but more eco-friendly.
+
+In a nutshell, this laser-cut headphone stand project isn't just a handy solution; it's a step towards how tech, personalization, and engineering can come together to create a better tool or product
+
+Thanks for joining me on this creative journey!
+
+https://www.youtube.com/watch?v=geOUHJTJITA&feature=youtu.be
