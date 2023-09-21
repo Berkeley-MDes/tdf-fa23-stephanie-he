@@ -1,40 +1,28 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Stephanie He, Technology Design Foundations
+Welcome to my GitHub repository ^^
 
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+I'm in my masters at Berkeley, where I’m studying the design of emergent technologies such as AI, ML, and mixed reality. From physical microcontrollers to 3D modeling, I’m having a blast learning new tools and systems!
+In my work, I’m excited to create tools for users with data-informed and detail-oriented design. In teams, I enjoy having a balance of autonomy and collaboration to be able to grow not only my own skills, but also together as a team.
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
-# Example Report 1 - Week of 08/21/2023 #
+# Weekly Report 4 - Week of 08/21/2023 #
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
 ---
 
-or, if you prefer, you can create separate files and link to them here, like so:
+# Weekly Reports 1-3 #
+[Report 1](weekly-reports/Report-1.md)
 
----
-[Example Report 1](weekly-reports/example-report-1.md)
----
+[Report 2](weekly-reports/Report-2_08.32.2023.md)
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
-sparkles,
-
-your TDF TA, shm :sparkles:
-
-PS: let me know if you have any questions!!
+[Report 3](weekly-reports/Report-3.md)
 
 --- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
+## Quick Links, compiled here for convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
