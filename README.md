@@ -7,6 +7,23 @@ In my work, I’m excited to create tools for users with data-informed and detai
 
 
 ---
+# Weekly Report 5 - Week of 08/28/2023 #
+
+## Collaboration - Reflection ##
+This week I collaborated with classmates on ideas we want to address within a specific area. I worked with my team to consider problems and interest areas around mobility. We talked about topics we were interested in to narrow down the scope and find specific user groups. 
+I took part in the discussion by building on each of our ideas including scooters, traveling, and speakers. I condensed our ideas and submitted the form to share with the rest of the class.
+
+Then I chose projects I was most interested in, which was related to creative technology and interactive games.
+
+<img src="Screenshot 2023-09-28 at 2.28.00 PM.png" alt="drawing" width="500"/>
+
+## Speculations ##
+With the digital space, I think theres a lot to be explored with creative tools in 3D, so I chose this as one of my interests. This can empower artists to break free from the constraints of 2D and design directly in 3D. Artists can create immersive experiences that are interesting both for the artist to use and audience to experience. 
+
+With the gaming, I also think that gamification is a popular trend to increase engagement for users. Many industries and companies have been utilizing our innate desire for achievement and competition.
+
+
+---
 # Weekly Report 4 - Week of 08/21/2023 #
 
 ## Getting feedback from classmates - Reflection ##
