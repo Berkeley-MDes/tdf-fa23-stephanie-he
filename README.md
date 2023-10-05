@@ -7,7 +7,26 @@ In my work, I’m excited to create tools for users with data-informed and detai
 
 
 ---
-# Weekly Report 5 - Week of 08/28/2023 #
+# Weekly Report 6 - Week of 10/05/2023 #
+
+## Collaboration - Team formation ##
+This week my team and I narrowed down what we wanted to focus on. We talked about wanting to create something with 2D, 3D, or different materials like wire or textiles. We ended up splitting up into two groups based on interests. 
+We split up based on if we wanted to make something that creates or destroys. 
+
+<img src="Screenshot 2023-10-05 at 1.52.20 PM.png" alt="drawing" width="500"/>
+
+## Planning and Research ##
+Within our smaller groups, we discussed more about how to execute our idea. We ideated on how the mechanisms would work, and looked into similar projects or examples to reference. 
+
+<img src="Screenshot 2023-10-05 at 1.52.42 PM.png" alt="drawing" width="500"/>
+<img src="Screenshot 2023-10-05 at 2.18.30 PM.png" alt="drawing" width="500"/>
+
+## Speculations ##
+Although our plan is to use wires to connect the components together, wireless communication capabilities in tools may become more prevalent. This includes enhancements in protocols like Bluetooth and Wi-Fi for faster and more reliable data transfer between. In addition, I think that in the future there will be more shared projects, libraries, and resources available, making it easier for developers to build on each other's work.
+
+
+---
+# Weekly Report 5 - Week of 09/28/2023 #
 
 ## Collaboration - Reflection ##
 This week I collaborated with classmates on ideas we want to address within a specific area. I worked with my team to consider problems and interest areas around mobility. We talked about topics we were interested in to narrow down the scope and find specific user groups. 
@@ -24,7 +43,7 @@ With the gaming, I also think that gamification is a popular trend to increase e
 
 
 ---
-# Weekly Report 4 - Week of 08/21/2023 #
+# Weekly Report 4 - Week of 09/21/2023 #
 
 ## Getting feedback from classmates - Reflection ##
 On Thursday I was able to get feedback from classmates. While I was happy with the end product, I felt that my explanation in the video was not sufficient and needed more detail into the process and decisions made. To address this, I added more detail into each step in my final pdf paper detailing my progress and steps. This not only showed my process better, but also better encapsulated what my model in Rhino and Grasshopper was capable of.
