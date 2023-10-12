@@ -7,6 +7,31 @@ In my work, I’m excited to create tools for users with data-informed and detai
 
 
 ---
+# Weekly Report 7 - Week of 10/12/2023 #
+
+## Collaboration - Project definition ##
+Essentially we have a rabbit figure that has two modes: friendly and shy. Friendly rabbit will go towards movement picked up by a sensor while shy rabbit will run away from the movement. As the rabbit moves, there will also be different sound outputs based on the mode.
+
+Then, my team and I narrowed down the steps we need to take and split up the work into tasks:
+Next steps:
+motor: Have Continuous Rotation Micro-Servo rotate the wheel, Start designing the rabbit figure, Code the modes, Code UI for choosing mode
+Audio: Work with microphone to get sound, Different sound modes, Integrate with rabbit, Fabrication, Designing rabbit figure, Design UI
+
+Here is pictures of the plans we made:
+
+<img src="Screenshot 2023-10-12 at 11.13.36 AM.png" alt="drawing" width="500"/>
+
+## Individual work ##
+I worked on motors and a bit on sensor to try them out with our kits. I was able to get the motor to start running, and am working on turning it on and off with a button control.
+
+<img src="IMG_2324.jpg" alt="drawing" width="500"/>
+<img src="IMG_2325.jpg" alt="drawing" width="500"/>
+
+## Speculations ##
+Something we bumped into were power limitations and translations between components. The future of AI on these platforms will likely involve the development of energy-efficient algorithms and models that can run on low-power devices. Also, use of AI with microcontrollers can make AI more accessible to students and hobbyists, supporting a greater understanding of both AI and embedded systems.
+
+
+---
 # Weekly Report 6 - Week of 10/05/2023 #
 
 ## Collaboration - Team formation ##
