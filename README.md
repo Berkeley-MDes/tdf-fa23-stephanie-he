@@ -1,9 +1,27 @@
 # Stephanie He, Technology Design Foundations
 Welcome to my GitHub repository ^^
 
-
 I'm in my masters at Berkeley, where I’m studying the design of emergent technologies such as AI, ML, and mixed reality. From physical microcontrollers to 3D modeling, I’m having a blast learning new tools and systems!
 In my work, I’m excited to create tools for users with data-informed and detail-oriented design. In teams, I enjoy having a balance of autonomy and collaboration to be able to grow not only my own skills, but also together as a team.
+
+
+---
+# Weekly Report 8 - Week of 10/19/2023 #
+
+## Collaboration - Project definition ##
+We were able to put together our individual parts together and connect the protons to communicate. We accessorized our rabbit, and took videos to demonstrate together. 
+
+<img src="IMG_9448.jpg" alt="drawing" width="500"/>
+
+## Individual work ##
+This week, I worked on creating a button for the rabbit to switch between modes. Then, I connected the motor, sensors, and button to communicate through the cloud based on the mode it is set on. 
+
+<img src="IMG_9445.jpg" alt="drawing" width="500"/>
+
+## Speculations ##
+For our speculation, we considered companionship of this robot with increased engagement and use of AI.
+If the robot rabbit is designed to interact with humans in a friendly and engaging manner, it could serve as a source of entertainment and companionship. People might form emotional connections with the robot, enhancing their overall well-being.
+If the robot rabbit utilizes AI, it may leverage sensors to gather data from its environment. AI algorithms could process this data to make informed decisions, enhancing the rabbit's ability to navigate and respond to stimuli. Natural language processing and computer vision could be integrated into the AI system, allowing the robot rabbit to understand and respond to human gestures, commands, and facial expressions. This enhances the user experience by making the interaction more intuitive and engaging.
 
 
 ---
