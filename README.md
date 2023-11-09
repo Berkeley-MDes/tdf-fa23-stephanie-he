@@ -6,6 +6,31 @@ In my work, I’m excited to create tools for users with data-informed and detai
 
 
 ---
+# Weekly Report 11 - Week of 10/26/2023 #
+
+## Starting final ##
+Next, the class did a demo on how to write instructions for a chatbot with AI. It is interesting to experiment with this tool, and I'm excited to try to add certain prompts and see how the chatbot will incorporate and follow them! 
+
+<img src="Screenshot 2023-10-26 at 2.48.19 PM.png" alt="drawing" width="500"/>
+
+## Speculations ##
+In the future direction of AI workbenches, there is a growing need and questions of ethical considerations in AI development. Future AI workbenches might include features that help incorporate ethical principles, avoiding biases, and ensuring responsible practices. In addition, AI workbenches can include tools for continuous monitoring of AI systems being used. This can help identify and address ethical issues over time, especially as systems interact with real-world data.
+
+---
+# Weekly Report 10 - Week of 10/26/2023 #
+
+## Wrapping up Project 3 ##
+Wrapping up our project together, we were able to finish our video and get feedback from classmates. While I was happy with the end product, I am curious about how this product can be expanded on and added to. It would be interesting to make this product more interactive and engaging with the users around it.
+
+## Starting chatbot! ##
+Next, the class did a demo on how to write instructions for a chatbot with AI. It is interesting to experiment with this tool, and I'm excited to try to add certain prompts and see how the chatbot will incorporate and follow them! 
+
+<img src="Screenshot 2023-10-26 at 2.48.19 PM.png" alt="drawing" width="500"/>
+
+## Speculations ##
+In the future direction of AI workbenches, there is a growing need and questions of ethical considerations in AI development. Future AI workbenches might include features that help incorporate ethical principles, avoiding biases, and ensuring responsible practices. In addition, AI workbenches can include tools for continuous monitoring of AI systems being used. This can help identify and address ethical issues over time, especially as systems interact with real-world data.
+
+---
 # Weekly Report 9 - Week of 10/26/2023 #
 
 ## Wrapping up Project 2 ##
